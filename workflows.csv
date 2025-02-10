@@ -1,0 +1,3 @@
+Workflow ID,Workflow Name,Description,Steps,AI Tools Used,Expected Outcome,Status,Date Added,Date Updated,Results,Lessons Learned,Link to Example
+WF001,Automated Blog Post Creation,Create blog posts using AI tools,1. Generate outline|2. Write content|3. Edit and review,ChatGPT|Grammarly,Complete blog post,Not Started,,,,,
+WF002,AI Image Generation Workflow,Create custom images for marketing,1. Write prompts|2. Generate variations|3. Refine results,Midjourney|PhotoShop,Marketing-ready images,Not Started,,,,,
